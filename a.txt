@@ -1,2 +1,16 @@
+<<<<<<< HEAD
 Git is a distributed version control system.
 Git is free software.
+=======
+bbb
+
+bc
+
+
+ac
+abf
+
+
+aba
+
+>>>>>>> ls
